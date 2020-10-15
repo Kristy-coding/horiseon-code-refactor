@@ -6,6 +6,8 @@
 body {
     background-color: #d9dcd6;
 }
+/* header */
+
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -38,6 +40,8 @@ header nav ul li a {
     color: #ffffff;
     text-decoration: none;
 }
+/* footer*/
+
 footer {
     padding: 30px;
     clear: both;
@@ -47,6 +51,7 @@ footer {
 footer h2 {
     font-size: 20px;
 }
+/* hero starts*/
 .hero {
     height: 800px;
     width: 100%;
@@ -55,12 +60,15 @@ footer h2 {
     background-size: cover;
     background-position: center;
 }
- .content {
+/* hero ends*/
+
+/* content section*/
+ .content-section {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
      }
- .content article {
+ .content {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -71,11 +79,11 @@ footer h2 {
  .content img {
      max-height: 200px;
  }
- .seo img, .social-media img {
+ .float-left {
      float: left;
      margin-right: 25px;
  }
- .online-rep img {
+ .float-right {
      float: right;
      margin-left: 25px;
  }
@@ -86,6 +94,7 @@ footer h2 {
 .content p {
     font-size: 16px;
 }
+/* benefits sections*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
