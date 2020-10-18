@@ -8,6 +8,9 @@ Horiseon is a website that offer search engine optimization. In this project we 
 * CSS
 
 ### Website 
+https://kristy-coding.github.io/horiseon-code-refactor/
+
+
 
 
 
