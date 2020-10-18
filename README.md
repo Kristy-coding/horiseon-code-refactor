@@ -10,8 +10,4 @@ Horiseon is a website that offer search engine optimization. In this project we 
 ### Website 
 https://kristy-coding.github.io/horiseon-code-refactor/
 
-
-
-
-
-
+![horiseon screenshot](download.jpeg)
